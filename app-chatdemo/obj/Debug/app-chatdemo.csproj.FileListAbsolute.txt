@@ -1,0 +1,12 @@
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\bin\Debug\app-chatdemo.exe.config
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\bin\Debug\app-chatdemo.exe
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\bin\Debug\app-chatdemo.pdb
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app-chatdemo.csproj.AssemblyReference.cache
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app_chatdemo.login.resources
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app_chatdemo.Properties.Resources.resources
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app_chatdemo.signup.resources
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app-chatdemo.csproj.GenerateResource.cache
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app-chatdemo.csproj.CoreCompileInputs.cache
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app-chatdemo.exe
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app-chatdemo.pdb
+C:\Users\thai2\source\repos\app-chatdemo\app-chatdemo\obj\Debug\app_chatdemo.forgetpass.resources
